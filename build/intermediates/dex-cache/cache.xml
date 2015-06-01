@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mmuppa/Downloads/AnimationsDemo1/app/libs/android-support-v13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0a0cf96dabecd7b65a3638a229e7bdb42e6b0a77">
+        <dex dex="/Users/mmuppa/Downloads/AnimationsDemo1/app/build/intermediates/pre-dexed/debug/android-support-v13-8b0f170bed6bb1a6dfc3a0704fb6b00581e272ee.jar" />
+    </item>
+
+</items>
